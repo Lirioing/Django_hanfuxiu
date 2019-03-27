@@ -1,4 +1,4 @@
-这是汉服秀VUE(  https://github.com/Lirioing/com.hanfuxiu  )的Django的接口
+这是汉服秀VUE(https://github.com/Lirioing/com.hanfuxiu)的Django的接口
 描述:django_hanfuxiu.sql是数据库,fork之后,
 第一步:cd hanfuxiu
 第二步:python manage.py migrate(会创建一系列的表,类似于........OK)
