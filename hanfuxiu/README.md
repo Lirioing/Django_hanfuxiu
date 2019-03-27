@@ -1,0 +1,33 @@
+1.状态码
+
+        codes=[
+            {"status_code":"X101","status_text":"注册成功"}
+            {"status_code":"X102","status_text":"用户已经存在"}
+            {"status_code":"X103","status_text":"登录成功"}
+            {"status_code":"X104","status_text":"该用户不存在"}
+            {"status_code":"X105","status_text":"密码错误"}
+            {"status_code":"X106","status_text":"登录过期"}
+            {"status_code":"X107","status_text":"未登录"}
+            {"status_code":"X108","status_text":"更新个人信息成功"}
+            {"status_code":"X109","status_text":"更新个人信息失败"}
+            {"status_code":"X401","status_text":"系统错误"}
+            {"status_code":"X405","status_text":"数据格式不合法"}
+            {"status_code":"X409","status_text":"数据库维护中"}
+            {"status_code":"X220","status_text":"购物车数据更新失败"}
+            {"status_code":"X221","status_text":"购物车数据更新成功"}
+            {"status_code":"X222","status_text":"加购成功"}
+            {"status_code":"X223","status_text":"加购失败"}
+            {"status_code":"X224","status_text":"查询失败"}
+            {"status_code":"X225","status_text":"收藏店铺成功"}
+            {"status_code":"X226","status_text":"已经收藏过该店铺"}
+            {"status_code":"X227","status_text":"收藏商品成功"}
+            {"status_code":"X228","status_text":"已经收藏过该商品"}
+            {"status_code":"X229","status_text":"收藏失败"}
+            {"status_code":"X231","status_text":"删除收藏的商品成功"}
+            {"status_code":"X232","status_text":"删除收藏的商品失败"}
+            {"status_code":"X233","status_text":"删除收藏的店铺成功"}
+            {"status_code":"X234","status_text":"删除收藏的店铺失败"}
+            {"status_code":"X235","status_text":"删除购物车商品成功"}
+            {"status_code":"X236","status_text":"删除购物车商品失败"}
+            {"status_code":"X237","status_text":"创建订单成功"}
+        ]
